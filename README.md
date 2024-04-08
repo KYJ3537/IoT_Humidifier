@@ -11,6 +11,10 @@
 
 ![bandicam 2024-04-08 19-19-11-250](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/b3735bf1-c5d5-414d-abbc-8f3fbfb7e480)
 
+### 2. 제품 설계 - 작동 구성도
+
+![bandicam 2024-04-08 19-19-35-575](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/fc9a8578-00df-48cc-997e-52953dcfe927)
+
 ### 2. 제품 설계 - 회로
 
 ![bandicam 2024-04-08 19-19-42-179](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/23b46d99-f40c-400e-838e-11e571bd8f29)
@@ -23,10 +27,6 @@
 da7f11)
 
 ![bandicam 2024-04-08 19-20-07-547](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/93697958-4cbb-4517-919a-a2c74143d26e)
-
-### 2. 제품 설계 - 작동 구성도
-
-![bandicam 2024-04-08 19-19-35-575](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/fc9a8578-00df-48cc-997e-52953dcfe927)
 
 ### 3. 실제 제품 모습
 
