@@ -17,7 +17,7 @@
 
 ![bandicam 2024-04-08 19-19-47-216](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/0ce5e517-3b17-4a87-8d52-da80b5d0646e)
 
-![bandicam 2024-04-08 19-19-52-574](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/5679533b-da5a-4333-9395-481c40
+![bandicam 2024-04-08 19-19-52-574](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/09a0921f-444e-4ec3-be2d-c98f28f37ba4)
 
 ![bandicam 2024-04-08 19-19-56-984](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/90a165fe-14f0-4248-8773-7738059563df)
 da7f11)
