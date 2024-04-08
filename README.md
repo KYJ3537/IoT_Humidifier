@@ -20,6 +20,15 @@
 
 ![bandicam 2024-04-08 19-19-11-250](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/b3735bf1-c5d5-414d-abbc-8f3fbfb7e480)
 
+상세 제품 명
+
+- Arduino Uno
+- ESP-8266(Wifi)
+- Water Atomization v1.0
+- SZH-EK058
+- DHT22
+- Voice Recognition Module
+
 ### 2. 제품 설계 - 작동 구성도
 
 ![bandicam 2024-04-08 19-19-35-575](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/fc9a8578-00df-48cc-997e-52953dcfe927)
