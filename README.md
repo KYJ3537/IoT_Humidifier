@@ -50,6 +50,9 @@ da7f11)
 
 ![bandicam 2024-04-08 19-19-03-660](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/d60f6614-1c28-4797-86c3-a95d1f95f29f)
 
-### 4. 웹페이지 방문 - 차트화된 데이터 조회
+### 4. 웹페이지 방문 - Google Chart API로 차트화된 데이터 조회
+
+구축된 APM (Apache) 서버
+
 ![bandicam 2024-04-08 19-19-25-883](https://github.com/KYJ3537/IoT_Humidifier/assets/107566312/e6769ee4-d233-40ea-84c8-48af0ba715bd)
 
